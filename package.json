@@ -1,0 +1,27 @@
+{
+  "name": "websockets-chat-with-socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdedeepya8/WebSockets-Chat-with-SocketIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdedeepya8/WebSockets-Chat-with-SocketIO/issues"
+  },
+  "homepage": "https://github.com/rdedeepya8/WebSockets-Chat-with-SocketIO#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
